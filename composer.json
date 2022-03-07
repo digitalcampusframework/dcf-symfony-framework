@@ -1,5 +1,5 @@
 {
-  "name": "jsturek/dcf-symfony-framework",
+  "name": "digitalcampusframework/dcf-symfony-framework",
   "description": "A symfony framework for digitalcampusframework (DCF) based applications",
   "homepage": "https://github.com/digitalcampusframework",
   "license": "BSD-3-Clause",
